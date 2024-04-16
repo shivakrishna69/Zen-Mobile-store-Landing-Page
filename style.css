@@ -1,0 +1,13 @@
+section{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.btn.btn-outline-secondary.btn-lg.rounded-5.type{
+    color: black;
+}
+.btn.btn-outline-secondary.btn-lg.rounded-5.type:hover{
+    background-color: navy !important;
+    color: white;
+   transition: all 1s ease-in;
+}
